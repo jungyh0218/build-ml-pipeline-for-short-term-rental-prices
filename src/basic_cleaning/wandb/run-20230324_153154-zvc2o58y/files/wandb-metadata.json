@@ -1,0 +1,35 @@
+{
+    "os": "macOS-13.0.1-x86_64-i386-64bit",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-03-24T06:31:56.111155",
+    "startedAt": "2023-03-24T06:31:54.685794",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "sample.csv:latest",
+        "--output_artifact",
+        "clean_sample.csv",
+        "--output_type",
+        "clean_sample",
+        "--output_description",
+        "Data with outliers and null values removed",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/Users/yoohee/projects/udacity/build-ml-pipeline-for-short-term-rental-prices/src/basic_cleaning/run.py",
+    "codePath": "src/basic_cleaning/run.py",
+    "git": {
+        "remote": "https://github.com/jungyh0218/build-ml-pipeline-for-short-term-rental-prices.git",
+        "commit": "483e851926abca4c5ee277962fabbec97c336aac"
+    },
+    "email": "jungyh0218@gmail.com",
+    "root": "/Users/yoohee/projects/udacity/build-ml-pipeline-for-short-term-rental-prices",
+    "host": "MacBook-Pro.local",
+    "username": "yoohee",
+    "executable": "/Users/yoohee/miniconda3/envs/mlflow-05cc25aed1a438ae37b8c9e0eb0fb8b7444a055f/bin/python"
+}

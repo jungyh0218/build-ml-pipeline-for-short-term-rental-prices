@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/yoohee/projects/udacity/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/0ea3293c940349fab6afbbaa9c52b495/artifacts
+end_time: 1679639276301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 0ea3293c940349fab6afbbaa9c52b495
+run_uuid: 0ea3293c940349fab6afbbaa9c52b495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679639270976
+status: 4
+tags: []
+user_id: yoohee
